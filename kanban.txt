@@ -1,0 +1,17 @@
+
+Kanban 
+Foi desenvolvido por Taiichi Ohno, Vice-Presidente da Toyota Motor. As idéias de Ohno sobre o kanban foram inspiradas no supermercado americano, onde as prateleiras eram reabastecidas quando esvaziadas. Como o espaço de cada item era limitado, somente se traziam mais itens quando havia necessidade.
+Bom, kanban vem da origem japonesa “cartão visual”, é onde você consegue visualizar todo o fluxo de sua linha de produção ou software, lembrando que é usado em ambos.
+Divida o trabalho em partes, escreva cada item num cartão e coloque na parede ou em algum quadro, também pode usar post its.
+
+Just in time (JIT) significa “no momento certo”. Na produção ele ajuda a eliminar os estoques e agilizar a produção
+Com o kanban ativo em sua empresa você consegue visualizar todo o fluxo desde a entrada do produto até o final, esse tempo se chama Led Time. Se sua produção parar por algum motivo você consegue visualizar onde está gargalo e tomar decisões imediatas para que possa continuar o processo.
+Kanban é um sistema de Puxada e não empurrada, você puxa sua tarefa para ser feita, lembrando que é preciso limitar a quantidade de histórias a serem feitas, para que fique um fluxo liso e não sobrecarrega o sistema. 
+
+Kanban não é tão novo no desenvolvimento de software , é um framework de desenvolvimento ágil que facilita ver o desempenho da sua equipe e seu fluxo.
+Com o kanban ativo não se pode esquecer de limitar as tarefas para que não sobre carrega e nem fique ocioso o fluxo, não existe um padrão de limites.Bom se sua equipe parou o fluxo por algum motivo você irá conseguir ver onde está o gargalo e resolver imediatamente.
+
+ Trabalho em equipe é fundamental também, pois se você fez algo com bug e passou para a frente o sistema provavelmente irá parar, o fluxo tem que correr liso, nem muito ocioso e nem sobrecarregado e também consegue ver o led Time, que é o tempo que iniciou e terminou um história desde o inicio até o final, de ponta a ponta.
+611116
+
+
